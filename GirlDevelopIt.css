@@ -1,0 +1,39 @@
+/*
+* Linda Walsh
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+  background-color: #ffe6e6;
+  font-family: Helvetica;
+}
+/* h1 text attributes*/
+h1 {text-decoration: underline;
+    font-family: "Apple Chancery"}
+/*header and footer text attributes*/
+header {text-align: center;
+    background-color: #ff6666;}
+footer {font-family: "Times New Roman";
+        background-color: #ffe6e6; }
+/* logo picture information*/
+#logo {
+    height: 200px;
+    width: 600px;
+}
+/*the link attributes here (the color for links visited change from blue to medium purple, when hovering over the links, the link text enlarges.)*/
+a:visited{color: mediumpurple;}
+a:hover{color:hotpink;
+        font-size: 150%;}
+/* image attributes here*/
+#image2 { width: 350px; height: 250px; float:right;}
+#image1 { width: 350px; height: 250px; float:right;}
+
